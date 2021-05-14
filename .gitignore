@@ -1,0 +1,10 @@
+# 不需要提交的目录
+/bert
+/out/model
+/test
+/log
+/script
+*.pyc
+/.vscode
+/.idea
+*.zip
